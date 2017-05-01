@@ -1,0 +1,6 @@
+D:\dev\cs\CSWithMoshAdvancedS2\CSWithMoshAdvancedS2\Exercise2\bin\Debug\Exercise2.exe.config
+D:\dev\cs\CSWithMoshAdvancedS2\CSWithMoshAdvancedS2\Exercise2\bin\Debug\Exercise2.exe
+D:\dev\cs\CSWithMoshAdvancedS2\CSWithMoshAdvancedS2\Exercise2\bin\Debug\Exercise2.pdb
+D:\dev\cs\CSWithMoshAdvancedS2\CSWithMoshAdvancedS2\Exercise2\obj\Debug\Exercise2.csprojResolveAssemblyReference.cache
+D:\dev\cs\CSWithMoshAdvancedS2\CSWithMoshAdvancedS2\Exercise2\obj\Debug\Exercise2.exe
+D:\dev\cs\CSWithMoshAdvancedS2\CSWithMoshAdvancedS2\Exercise2\obj\Debug\Exercise2.pdb

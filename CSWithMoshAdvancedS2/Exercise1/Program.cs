@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Exercise1
 {
@@ -10,6 +6,30 @@ namespace Exercise1
     {
         static void Main(string[] args)
         {
+            var stopwatch = new Stopwatch();
+            var cont = true;
+
+            while (cont)
+            {
+                Console.WriteLine("Enter \"start\", \"stop\", \"duration\", or \"end\" --->");
+                var inputString = Console.ReadLine();
+                
+                switch (inputString)
+                {
+                    case "start":
+                        stopwatch.Start();
+                        break;
+                    case "stop":
+                        stopwatch.Stop();
+                        break;
+                    case "duration":
+                        Console.WriteLine(stopwatch.GetDuration().ToString());
+                        break;
+                    default:
+                        cont = false;
+                        break;
+                }
+            }
         }
     }
 }
